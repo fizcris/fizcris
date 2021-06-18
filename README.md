@@ -10,7 +10,7 @@ My name is Cristian Alonso, I have not been born a prgrammer but engineering the
 
 
 
-- ⚡ Fun fact: I drive a 1983 BMW K100
+- ⚡ Fun fact: I drive a restored 1983 BMW K100
 
 
 <!--
