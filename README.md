@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+My name is Cristian Alonso, I have not been born a prgrammer but engineering these days is close to programming than anything, so here we are.
+
+- 🌱 I’m currently learning Machine Learning and Computer Vision with the Autnomous Driving Udacity Nanodegree and also a bit of React.
+- 🔭 I’m currently looking for work, especially in ADAS or Autonomous driving. IOT are interesting topics for me too.
+- 👯 I’m looking to collaborate on projects that uses CAN bus and anything to do with control systems.
+- 💬 Ask me about microcontrollers, multibody, vehicle dynamics, control systems, adaptative control, model reference control, PIDs.
+- 📫 How to reach me: fizcris@gmail.com
+
+
+
+- ⚡ Fun fact: I drive a 1983 BMW K100
+
+
 <!--
 **fizcris/fizcris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
