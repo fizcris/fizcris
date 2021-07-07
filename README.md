@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Cristian Alonso, I have not been born a prgrammer but engineering these days is close to programming than anything, so here we are.
+My name is Cristian Alonso, I have not been born a pure prgrammer but the requirements of engineering these days is close to programming than anything, so here we are.
 
 - 🌱 I’m currently learning Machine Learning and Computer Vision with the Autnomous Driving Udacity Nanodegree and also a bit of React.
 - 🔭 I’m currently looking for work, especially in ADAS or Autonomous driving. IOT and remote management and instrumentation are interesting topics for me too.
