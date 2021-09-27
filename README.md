@@ -3,7 +3,7 @@
 My name is Cristian Alonso, I am a mechatronics engineer that loves to code, especially things that move.
 
 - 🌱 I’m currently learning Machine Learning and Computer Vision with the Autnomous Driving Udacity Nanodegree and also a bit of React.
-- 🔭 I’m currently looking for a job, especially in ADAS or Autonomous driving. IOT and remote management and instrumentation are interesting topics for me too.
+- 🔭 ADAS, Autonomous driving, IOT and remote management and instrumentation are interesting topics for me.
 - 👯 I’m looking to collaborate on projects that uses CAN bus and anything to do with control systems.
 - 💬 Ask me about c++, Qt, microcontrollers, multibody, vehicle dynamics, control systems, adaptative control, model reference control, PIDs.
 - 🤔 I’m looking for help with Power Electronics rleated to an Open source project [freeds](http://freeds.es/) involving AC dimmers for Photo Voltaic Power consumption optimization. 
