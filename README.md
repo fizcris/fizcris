@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Cristian Alonso, I am a mechatronics engineer that loves to code, especially things that move.
+My name is Cristian Alonso, I am a mechatronics engineer who loves to code, especially things that move.
 
-- 🌱 I’m currently learning Machine Learning and Computer Vision with the Autnomous Driving Udacity Nanodegree and also a bit of React.
+- 🌱 I’m currently learning Machine Learning and Computer Vision with the Autonomous Driving Udacity Nanodegree and also a bit of React.
 - 🔭 ADAS, Autonomous driving, IOT and remote management and instrumentation are interesting topics for me.
 - 👯 I’m looking to collaborate on projects that uses CAN bus and anything to do with control systems.
 - 💬 Ask me about c++, Qt, microcontrollers, multibody, vehicle dynamics, control systems, adaptative control, model reference control, PIDs.
